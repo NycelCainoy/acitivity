@@ -1,10 +1,10 @@
-
 <?php 
 $page_title = "Dashboard";
 include('includes/header.php');
 include('includes/navbar.php');
 ?>
-<div class="py-3"> 
+
+<div class="py-5"> 
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
@@ -13,7 +13,7 @@ include('includes/navbar.php');
                         <h5>User Dashboard</h5>
                     </div>
                     <div class="card-body">
-                        <h5>Access when you are logged in</h5> 
+                        <h4>Access when you are Logged In</h5> 
                     </div>
                 </div>
             </div>

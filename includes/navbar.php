@@ -1,7 +1,7 @@
-<div class="bg-ligth">
+<div class="bg-primary-gradient">
 <div class="container">
     <div class="row">
-        <div class="col-md12">
+        <div class="col-md-12">
         <nav class="navbar navbar-expand-lg navbar-light">
             <div class="container-fluid">
 
@@ -18,10 +18,13 @@
                     <a class="nav-link active" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
+                    <a class="nav-link" href="dashboard.php">Dashboard</a>
+                    </li>
+                    <li class="nav-item">
                     <a class="nav-link" href="register.php">Register</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="login.php">Link</a>
+                    <a class="nav-link" href="login.php">Login</a>
                     </li>
                     
                 </ul>
