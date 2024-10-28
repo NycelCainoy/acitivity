@@ -25,11 +25,11 @@ include('includes/navbar.php');
 
                         <form action="code.php"method="POST">
                             <div class="form-group mb-3"> 
-                                <label for="name">Full_Name</label>
-                                <input type="text" id="full_name" name="full_name" class="form-control">
+                                <label for="name">Full Name</label>
+                                <input type="text" id="full name" name="full name" class="form-control">
                             </div>
                             <div class="form-group mb-3"> 
-                                <label for="phone">Phone_Number</label>
+                                <label for="phone">Phone Number</label>
                                 <input type="text" id="phone" name="phone" class="form-control">
                             </div>
                             <div class="form-group mb-3"> 
